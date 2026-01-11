@@ -3,7 +3,6 @@
 
 MindGuruYoga (MGY) is a premium, ultra-minimal platform for mindfulness, psychology, and productivity. It is designed to help modern intellectuals master their internal state and achieve deep work through a structured curriculum for consciousness.
 
-![MGY Preview](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
 
 ## ✨ Key Features
 
